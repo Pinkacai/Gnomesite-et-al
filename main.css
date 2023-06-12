@@ -1,0 +1,24 @@
+Body {
+	background: skyblue;
+	font-family: fantasy;
+
+}
+
+H1 {
+	color: darkcyan;
+}
+em {
+	color: orangered;
+
+}
+p {
+	background: palegoldenrod;
+	color: rebeccapurple;
+	padding:40px 50px;
+}
+
+.secondary {
+	background: none;
+	color: none;
+
+}
